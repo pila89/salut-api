@@ -1,0 +1,31 @@
+.card-lwin {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.loun {
+  width: 100%;
+  height: 650px;
+  background-color: #141414;
+}
+
+.mimou {
+  width: 250px;
+  height: 250px;
+  margin-top: 40px;
+}
+
+.hed {
+  display: flex;
+  justify-content: center;
+  background-color: #141414;
+}
+h1 {
+  color: white;
+}
+
+.boudi {
+  background-image: url(https://www.photocase.com/photos/2136640-autumn-nature-background-with-falling-baun-leaves-photocase-stock-photo-large.jpeg);
+}
